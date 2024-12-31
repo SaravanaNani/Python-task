@@ -112,10 +112,12 @@ status_var.set(statuses[0])  # Default value
 tk.OptionMenu(app, status_var, *statuses).grid(row=3, column=2, padx=10, pady=5)
 
 tk.Button(app, text="Update Status", command=update_status).grid(row=4, column=0, columnspan=3, pady=10)
-```
+
 
 # Delete user and tasks
 tk.Button(app, text="Delete User & Tasks", command=delete_user_tasks).grid(row=5, column=0, columnspan=3, pady=10)
 
 # Run the application
 app.mainloop()
+
+```
