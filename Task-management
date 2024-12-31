@@ -3,6 +3,7 @@ import uuid
 # Initialize an empty dictionary to store users and their tasks
 users = {}
 
+
 # Function to add a user
 def add_user():
     username = input("Enter user name: ").strip()
