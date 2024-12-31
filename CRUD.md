@@ -25,8 +25,8 @@ pip install google-cloud-storage
 
 In the Cloud Shell terminal, run the following command to create a new directory:
 ```
-mkdir storage-bk.
-cd storage-bk.py
+mkdir storage
+cd storage
 ```
 ### To Create and Edit the Python Script:
 
@@ -34,13 +34,13 @@ cd storage-bk.py
 
 -> Click on Open Editor in the Cloud Shell.
 
--> In the left panel, right-click on the ```storage-bk``` folder and select New File.
+-> In the left panel, right-click on the ```storage``` folder and select New File.
 
--> Name the ```file bk.py ```and copy-paste your Python code into it.
+-> Name the ```file-name.py ```and copy-paste your Python code into it.
 
 ### TO Create and Upload the Service Account Key:
 
--> In the same folder ```(storage-bk)```, create another file named ```key.json```.
+-> In the same folder ```(storage)```, create another file named ```key.json```.
 
 -> Copy and paste the content of your service account key into this file.
 
@@ -49,12 +49,12 @@ cd storage-bk.py
 Back in the Cloud Shell terminal, navigate to your folder:
 
 ```
-cd storage-bk
+cd storage
 ```
 ### Run the Python script using the following command:
 
 ```
-python bk.py
+python file-name.py
 ```
 #### 1.  Create-new-storage-bucket
 
