@@ -87,4 +87,4 @@ task-managemet-app.py
 
 -> Enter the username in the User Name field.
 
-Click the "Delete User & Tasks" button.
+-> Click the "Delete User & Tasks" button.
