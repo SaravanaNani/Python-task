@@ -88,3 +88,10 @@ task-managemet-app.py
 -> Enter the username in the User Name field.
 
 -> Click the "Delete User & Tasks" button.
+
+# Python CRUD Operations to Upload Files to GCS
+
+Kindly refer the below git crud.md file:
+```
+https://github.com/SaravanaNani/Python-task/blob/main/CRUD.md
+``` 
